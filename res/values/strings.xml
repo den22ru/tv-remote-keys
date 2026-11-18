@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Кнопки пульта</string>
+    <string name="a11y_desc">Запускает выбранные приложения по кнопкам пульта (Netflix, Prime Video, Xiaomi TV+). Ничего не читает с экрана и не выходит в сеть.</string>
+</resources>

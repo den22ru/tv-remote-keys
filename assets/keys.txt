@@ -1,0 +1,6 @@
+# Назначения по умолчанию (применяются при первом запуске; дальше меняются
+# в самом приложении «Кнопки пульта» на телевизоре).
+# Формат: <код клавиши Android> <пакет>
+193 top.rootu.lampa        # Netflix     -> Lampa
+194 ru.ivi.client          # Prime Video -> ivi
+192 com.spbtv.beekztv      # Xiaomi TV+  -> BeeTV

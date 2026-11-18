@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp" android:height="180dp"
+    android:viewportWidth="320" android:viewportHeight="180">
+    <path android:fillColor="#1F2A44" android:pathData="M0,0h320v180h-320z" />
+    <!-- remote body -->
+    <path android:fillColor="#E8ECF4"
+        android:pathData="M138,24h44a10,10 0,0 1,10 10v112a10,10 0,0 1,-10 10h-44a10,10 0,0 1,-10 -10v-112a10,10 0,0 1,10 -10z" />
+    <!-- d-pad ring -->
+    <path android:fillColor="#1F2A44" android:pathData="M160,62m-18,0a18,18 0,1 1,36 0a18,18 0,1 1,-36 0" />
+    <path android:fillColor="#E8ECF4" android:pathData="M160,62m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0" />
+    <!-- three shortcut buttons -->
+    <path android:fillColor="#E5484D" android:pathData="M138,98h44v10h-44z" />
+    <path android:fillColor="#3E9BFF" android:pathData="M138,114h44v10h-44z" />
+    <path android:fillColor="#F5A524" android:pathData="M138,130h44v10h-44z" />
+</vector>
